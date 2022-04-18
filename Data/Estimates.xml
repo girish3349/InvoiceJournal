@@ -1,0 +1,22 @@
+<data>
+	<row>
+		<user>
+			<username>1demo!USER</username>
+			<password>11demo11PASS!!</password>
+		</user>
+		<product>
+			<name>First product</name>
+			<price>30.11</price>
+		</product>
+		<product>
+			<name>Second product</name>
+			<price>20.22</price>
+		</product>
+	</row>
+	<row>
+		<user>
+			<username>2demo2</username>
+			<password>2demo2</password>
+		</user>
+	</row>
+</data>
