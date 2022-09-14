@@ -1,2 +1,4 @@
-target/*
-/target/
+*.exe
+target/
+test-output/
+settings/
