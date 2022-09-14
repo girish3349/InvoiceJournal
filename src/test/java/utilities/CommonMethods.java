@@ -36,13 +36,11 @@ public class CommonMethods {
 			prop = new Properties();
 			prop.load(reader);
 		} catch (IOException e) {
-			// TODO Auto-generated catch block
 			e.printStackTrace();
 		} finally {
 			try {
 				reader.close();
 			} catch (IOException e) {
-				// TODO Auto-generated catch block
 				e.printStackTrace();
 			}
 		}
